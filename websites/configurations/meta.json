@@ -1,7 +1,8 @@
 {
     "bbc": {
         "search_suport": false,
-        "news_options": ["Notícias", "Brasil", "Internacional", "Economia", "Saúde", "Ciência", "Tecnologia", "Vídeos", "BBC Lê"],
+        "news_options": ["Brasil", "Internacional", "Economia", "Saúde", "Ciência", "Tecnologia", "Vídeos", "BBC Lê"],
+        "url": "https://www.bbc.com/",
         "api_url": "https://www.bbc.com/portuguese",
         "method": "get",
         "language": "português_pt-br",
