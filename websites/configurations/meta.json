@@ -1,0 +1,51 @@
+{
+    "bbc": {
+        "search_suport": false,
+        "news_options": ["Notícias", "Brasil", "Internacional", "Economia", "Saúde", "Ciência", "Tecnologia", "Vídeos", "BBC Lê"],
+        "api_url": "https://www.bbc.com/portuguese",
+        "method": "get",
+        "language": "português_pt-br",
+        "country": "brasil",
+        "ok_http_code": [200],
+        "cloudflare": false,
+        "headers": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Connection": "keep-alive"
+        },
+        "payload": null
+
+    },
+    "cnn": {
+        "search_suport": true,
+        "news_options": [],
+        "language": "",
+        "country": "",
+        "cloudflare": false,
+        "headers": {},
+        "payload": {}
+
+    },
+    "globo": {
+        "search_suport": true,
+        "news_options": [],
+        "language": "",
+        "country": "",
+        "cloudflare": false,
+        "headers": {},
+        "payload": {}
+
+    },
+    "new_york_times": {
+        "search_suport": true,
+        "news_options": [],
+        "language": "",
+        "country": "",
+        "cloudflare": false,
+        "headers": {},
+        "payload": {}
+
+    }
+}
